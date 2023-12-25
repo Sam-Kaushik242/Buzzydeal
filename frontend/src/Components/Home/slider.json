@@ -1,0 +1,12 @@
+[
+    {   
+        "name": "Womens fashion",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero unde similique voluptates saepe quo praesentium in fugit explicabo, porro corporis, iste quos quaerat ducimus ullam consequatur voluptatem perspiciatis totam, sit.",
+        "img": "./banner12.jpeg",
+        "id": 1
+    },
+    {   
+        "img": "./banner55.jpeg",
+        "id": 2
+    }
+]
